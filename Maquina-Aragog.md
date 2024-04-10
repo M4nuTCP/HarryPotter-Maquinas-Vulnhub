@@ -87,7 +87,7 @@ wpscan --url http://wordpress.aragog.hogwarts/blog -e vp,u --api-token="APItoken
 
 wpscan nos reporta un montón de vulnerabilidades, vamos a escoger una que pinte bien :)
 
-He probado muchas de las vulnerabilidades que hay en el wpscan y al parecer son falsos positivos, vamos a probar ocn mi siguiente opción que es el scanner de Metasploit:
+He probado muchas de las vulnerabilidades que hay en el wpscan y al parecer son falsos positivos, vamos a probar con mi siguiente opción que es el scanner de Metasploit:
 
 `scanner/http/wordpress_scanner`
 
