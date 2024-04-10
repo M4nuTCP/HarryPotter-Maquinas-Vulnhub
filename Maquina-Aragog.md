@@ -149,7 +149,7 @@ done
 ![image](https://github.com/ManuGalan/HarryPotter-Maquinas-Vulnhub/assets/96147300/a662c4b5-599c-4588-99d1-9f68793fb228?with=50)
 
 
-y como vemos hay un script que cada cierto tiempo se ejecuta con privilegios... pues tan simple como meter dentro de este script **chmod u+s /bin/bash** y la próxima vez que se ejecute la bash va a tener permisos SUID y si ejecutamos bash -p vamos a conseguir una consola como administrador.
+y como vemos hay un script que cada cierto tiempo se ejecuta con privilegios... pues tan simple como meter dentro de este comando **chmod u+s /bin/bash** y la próxima vez que se ejecute la bash va a tener permisos SUID y si ejecutamos bash -p vamos a conseguir una consola como administrador.
 
 ![image](https://github.com/ManuGalan/HarryPotter-Maquinas-Vulnhub/assets/96147300/557f5f7f-9578-44c9-be2d-5fb67ded3356?with=100)
 
