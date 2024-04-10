@@ -153,4 +153,6 @@ y como vemos hay un script que cada cierto tiempo se ejecuta con privilegios... 
 
 ![image](https://github.com/ManuGalan/HarryPotter-Maquinas-Vulnhub/assets/96147300/557f5f7f-9578-44c9-be2d-5fb67ded3356?with=100) 
 
+Dificultad 2/5
+
 
