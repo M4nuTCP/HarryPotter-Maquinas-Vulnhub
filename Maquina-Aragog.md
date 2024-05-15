@@ -132,7 +132,7 @@ Una vez hecha la fuerza bruta, conseguimos la contraseña xd, vamos a entrar por
 
 ![image](https://github.com/ManuGalan/HarryPotter-Maquinas-Vulnhub/assets/96147300/d8af0a03-e81b-4c49-b085-614725db479b?with=250)
 
-Conseguimos la flag de user, vamos a por el ruteo, empiezo con sudo -l el cual me dice que no esta instalado sudo en la máquina, buscamos por permisos SUID (find / -perm -4000 -ls 2>/dev/null) pues vamos a por tareas cron mi favorito, creamos el siguiente script para identificar tareas cron:
+Conseguimos la flag de user, vamos a por el ruteo, empiezo con sudo -l el cual me dice que no esta instalado sudo en la máquina, buscamos por permisos SUID (find / -perm -4000 -ls 2>/dev/null) pues vamos a por tareas cron , creamos el siguiente script para identificar tareas cron:
 
 ```bash
 #!/bin/bash
