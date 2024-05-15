@@ -111,7 +111,7 @@ Ahora con una consola mucho mas usable, pues lo primero que vamos hacer al saber
 
 ![image](https://github.com/ManuGalan/HarryPotter-Maquinas-Vulnhub/assets/96147300/d790eaef-837e-4a94-b883-bc76c8771d22)
 
-Dentro de este archivo pues se empieza a calentar la cosa:
+Dentro de este archivo vemos las credenciales:
 
 ![image](https://github.com/ManuGalan/HarryPotter-Maquinas-Vulnhub/assets/96147300/28f0ab92-0cb7-453b-9790-4cc6acdf431d)
 
